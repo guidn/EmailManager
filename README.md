@@ -4,6 +4,8 @@ Feito interamente por mim, unica coisa que não mostrei da importação foi o mo
 Pretendo utilizar esse meu codigo mais pra frente para criar um CRUD com os emails, e continuar meu desenvolvimento com Python.
 Esse é só um exemplo, segue abaixo o output do codigo:
 
+
+
 Lista de emails do remetente:
 {"\nEmail ID:529\nConfirme o seu endereço de e-mail\n ('\\\\Seen',) FIMSE"}
 
@@ -29,4 +31,6 @@ Lista de emails do remetente:
 
 {"\nEmail ID:1917\nEstá com fome? Experimente o Uber Eats\n ('\\\\Seen',) FIMSE"}
 
+
+//////
 Agradeço a todos que vieram até aqui.
